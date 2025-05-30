@@ -120,7 +120,7 @@ void add(int x,int y)
     z = x + y;
     printf("Addition: %d\n",z);
 }
-int sub(int x,int y)
+void sub(int x,int y)
 {
     int z;
     z = x - y;
